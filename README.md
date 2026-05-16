@@ -2,7 +2,7 @@
 
 ## Ссылка на Д3 - https://github.com/netology-code/mnt-homeworks/blob/MNT-video/10-monitoring-02-systems/README.md
 
-## Ссылка на репозиторий - https://github.com/SLzDevOps/netology-teamcity
+## Ссылка на репозиторий - https://github.com/SLzDevOps/Netology-Monitoring-1
 
 ### Скриншоты - https://github.com/SLzDevOps/Netology-Monitoring-1/blob/main/screenshots
 
