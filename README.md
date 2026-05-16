@@ -4,10 +4,11 @@
 
 ## Ссылка на репозиторий - https://github.com/SLzDevOps/netology-teamcity
 
-### Скриншоты - https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots
+### Скриншоты - https://github.com/SLzDevOps/Netology-Monitoring-1/blob/main/screenshots
 
 
-![alt text](https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots/Screenshot_48.png).
-![alt text](https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots/Screenshot_32.png).
-![alt text](https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots/Screenshot_33.png).
-![alt text](https://github.com/SLzDevOps/netology-teamcity/blob/master/screenshots/Screenshot_34.png).
+![alt text](https://github.com/SLzDevOps/Netology-Monitoring-1/blob/main/screenshots/Screenshot_844.png).
+![alt text](https://github.com/SLzDevOps/Netology-Monitoring-1/blob/main/screenshots/Screenshot_845.png).
+![alt text](https://github.com/SLzDevOps/Netology-Monitoring-1/blob/main/screenshots/Screenshot_846.png).
+![alt text](https://github.com/SLzDevOps/Netology-Monitoring-1/blob/main/screenshots/Screenshot_847.png).
+![alt text](https://github.com/SLzDevOps/Netology-Monitoring-1/blob/main/screenshots/Screenshot_848.png).
